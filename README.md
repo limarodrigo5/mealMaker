@@ -39,8 +39,8 @@ menu.price = 7;
 
 To retrieve Today's Special, use the menu.todaysSpecial getter:
     
-    ```javascript
+```javascript
     console.log(menu.todaysSpecial);
     // Output: Today's Special is Lasagna for $7.
-    ``` 
+``` 
 
